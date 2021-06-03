@@ -1,0 +1,58 @@
+data_MoO3_opt_K_added
+_audit_creation_date              2007-10-11
+_audit_creation_method            'Materials Studio'
+_symmetry_space_group_name_H-M    'P1'
+_symmetry_Int_Tables_number       1
+_symmetry_cell_setting            triclinic
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+_cell_length_a                    3.9600
+_cell_length_b                   69.2500
+_cell_length_c                    3.6900
+_cell_angle_alpha                 90.0000
+_cell_angle_beta                  90.0000
+_cell_angle_gamma                 90.0000
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_Uiso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+A1     K     0.00991   0.25074   0.25308   0.00000  Uiso   1.00
+A2     Mo    0.51327   0.28048   0.75301   0.00000  Uiso   1.00
+A3     Mo    0.47630   0.32334   0.25250   0.00000  Uiso   1.00
+A4     Mo    0.94164   0.37979   0.75096   0.00000  Uiso   1.00
+A5     Mo    0.06853   0.42230   0.25056   0.00000  Uiso   1.00
+A6     Mo    0.56853   0.47770   0.74944   0.00000  Uiso   1.00
+A7     Mo    0.44164   0.52021   0.24904   0.00000  Uiso   1.00
+A8     Mo    0.97630   0.57666   0.74750   0.00000  Uiso   1.00
+A9     Mo    0.01327   0.61952   0.24699   0.00000  Uiso   1.00
+A10    O     0.50957   0.25388   0.75300   0.00000  Uiso   1.00
+A11    O     0.01011   0.28027   0.75308   0.00000  Uiso   1.00
+A12    O     0.51038   0.28662   0.25296   0.00000  Uiso   1.00
+A13    O     0.50818   0.31309   0.75263   0.00000  Uiso   1.00
+A14    O     0.00938   0.32041   0.25257   0.00000  Uiso   1.00
+A15    O     0.49913   0.34764   0.25187   0.00000  Uiso   1.00
+A16    O     0.99297   0.35551   0.75147   0.00000  Uiso   1.00
+A17    O     0.49771   0.38276   0.75090   0.00000  Uiso   1.00
+A18    O     0.01365   0.38789   0.25091   0.00000  Uiso   1.00
+A19    O     0.99540   0.41421   0.75067   0.00000  Uiso   1.00
+A20    O     0.51198   0.41924   0.25062   0.00000  Uiso   1.00
+A21    O     0.01815   0.44657   0.25021   0.00000  Uiso   1.00
+A22    O     0.51815   0.45343   0.74979   0.00000  Uiso   1.00
+A23    O     0.01198   0.48076   0.74938   0.00000  Uiso   1.00
+A24    O     0.49540   0.48579   0.24933   0.00000  Uiso   1.00
+A25    O     0.51365   0.51211   0.74909   0.00000  Uiso   1.00
+A26    O     0.99771   0.51724   0.24910   0.00000  Uiso   1.00
+A27    O     0.49297   0.54449   0.24852   0.00000  Uiso   1.00
+A28    O     0.99913   0.55236   0.74813   0.00000  Uiso   1.00
+A29    O     0.50938   0.57959   0.74743   0.00000  Uiso   1.00
+A30    O     0.00818   0.58691   0.24737   0.00000  Uiso   1.00
+A31    O     0.01038   0.61338   0.74704   0.00000  Uiso   1.00
+A32    O     0.51011   0.61973   0.24692   0.00000  Uiso   1.00
+A33    O     0.00957   0.64612   0.24700   0.00000  Uiso   1.00
+A34    K     0.50991   0.64926   0.74691   0.00000  Uiso   1.00
