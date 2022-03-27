@@ -1,5 +1,5 @@
-# 12.DFT-Calculation-For-MoO3-with-K
-Repository for my DFT Research of MoO3 + K dopping in the surface using Openmx3.9
+# 12.DFT-Calculation-For-MoO3-with-K-dopping
+Repository For My DFT Calculations of MoO3 with K-dopping on the surface using OpenMx3.9
 
 본 연구에서는 2차원 MoO3 표면에 포타슘(K)이 결합하였을때 결합 밀도에 따른 Work functio 변화를 조사하였다.
 Openmx3.9 버전을 이용하여 DFT 계산을 수행하였으며 계산상의 제한조건을 해결하고 실제 물리적 해에 가까운 계산결과를 얻기 위해 empty layer를 최대 5층까지 추가하여
